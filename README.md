@@ -14,7 +14,7 @@ SVG layers (from top to bottom):
 | ------------- | ------------- |
 | **Outline**  | is the shape of a GBA cartridge label, to be used as a guide and not to be printed  |
 | **Rumble**  | RUMBLE text drawn using the following font: <a href="https://www.vecteezy.com/vector-art/445592-font-design-for-world-rock-climbing">Rock Climbing Vectors by Vecteezy</a>  |
-| **Text**  | contains the TM and AGP-AWAP-EUR texts  |
+| **Text**  | contains the TM and AGB-AWAP-EUR texts  |
 | **Nintendo**  | has the vector Nintendo logo taken from [Wikipedia](https://en.wikipedia.org/wiki/File:Nintendo_red_logo.svg)  |
 | **Original Seal**  | vector image from [Wikipedia](https://en.wikipedia.org/wiki/File:Original_Nintendo_Seal_of_Quality_emblem.svg)  |
 | **CE**  | marking using an edited version from [Wikipedia](https://en.m.wikipedia.org/wiki/File:Conformit%C3%A9_Europ%C3%A9enne_(logo).svg)  |
